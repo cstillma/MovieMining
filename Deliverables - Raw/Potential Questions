@@ -1,0 +1,25 @@
+# Potential Interesting Questions to Answer: #
+
+## Predict ##
+- the runtime of a film based on genre
+- what genre a given country's next film will be
+- duration of a movie based on country of origin
+- duration of a movie based on genre
+- duration of a movie based on date of release
+- rating of a movie based on duration
+- popularity of a movie within the Letterboxd community based on the actors
+- popularity of a movie within the Letterboxd community based on the genre
+- popularity of a movie within the Letterboxd community based on the crew (director, etc.)
+- whether an emerging genre will gain further popularity in coming years
+
+## Identify ##
+- patterns around most popular film genres in a particular country (conversely, does a particular country dominate a certain genre in terms of output?)
+- whether there is a stronger correlation between crew size or individual big name actor(s) in determining a film's budget
+- how the popularity of genres has changed over a date range
+- which directors have the highest average ratings for their films
+- which actors consistently appear in highly-rated films
+- how production of films varies by country
+- what factors contribute to a high rating for a film
+- how do budget and box office take correlate to each other (could subdivide by genre)
+- are certain times of the year in which more films are released (are summer blockbusters myth or fact? do more big-budget movies come out in Nov/Dec these days?)
+- film franchises - what patterns determine success or failure of a franchise
