@@ -24,6 +24,7 @@ The goal of this data mining project is to discover trends in film runtime such 
 
 ## Video Demo and Final Paper ##
 Link to video demo: 
+
 Link to final project paper: 
 
 ## Dataset ##
