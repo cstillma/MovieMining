@@ -23,7 +23,7 @@ Multiple model types showed that it is possible to predict the runtime feature u
 One of the primary insights from our mining is the discovery that filmmakers could start to tailor their film runtimes to achieve targeted ratings, which could help commercial success and box office take. An additional insight from the BBN model illuminated cultural preferences, again allowing for an application in which the film industry can craft films to target runtimes that are more likely to be engaging and successful to an expected or desired market of filmgoers. 
 
 ## Video Demo and Final Paper ##
-Link to video demo: 
+Link to video demo: https://github.com/cstillma/MovieMining/blob/main/08_MovieMining_Part6_Video.mp4
 
 Link to final project paper: 
 
@@ -31,3 +31,4 @@ Link to final project paper:
 Original: https://www.kaggle.com/datasets/gsimonx37/letterboxd/data
 
 Working: https://github.com/cstillma/MovieMining/blob/main/Deliverables%20-%20Raw/encoded_df.csv
+
