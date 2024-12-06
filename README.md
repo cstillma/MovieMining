@@ -25,7 +25,7 @@ One of the primary insights from our mining is the discovery that filmmakers cou
 ## Video Demo and Final Paper ##
 Link to video demo: https://github.com/cstillma/MovieMining/blob/main/08_MovieMining_Part6_Video.mp4
 
-Link to final project paper: 
+Link to final project paper: https://github.com/cstillma/MovieMining/blob/main/08_MovieMining_Part4.pdf
 
 ## Dataset ##
 Original: https://www.kaggle.com/datasets/gsimonx37/letterboxd/data
